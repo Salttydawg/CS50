@@ -1,0 +1,20 @@
+sort1 uses: Bubble Sort
+
+How do you know?:
+On reversed - 4.954s
+On sorted - .493s
+On random - 5.641s
+
+sort2 uses: Merge Sort
+
+How do you know?:
+On reversed - .527s
+On sorted - .478s
+On Random - .473s
+
+sort3 uses: Selection Sort
+
+How do you know?:
+On reversed - 2.529s
+On sorted - 2.311s
+On random - 2.382s
